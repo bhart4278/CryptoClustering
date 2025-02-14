@@ -48,5 +48,7 @@ This project applies clustering techniques to group cryptocurrencies based on th
 - Comparison of clustering effectiveness before and after dimensionality reduction.
 
 ## Conclusion
-This project demonstrates the power of K-Means clustering in cryptocurrency classification and highlights how PCA can improve clustering efficiency by reducing dimensionality while preserving essential information.
+This project demonstrates the power of K-Means clustering in cryptocurrency classification and highlights how PCA can improve clustering efficiency by reducing dimensionality while preserving essential information. The following elbow and clusters charts compares the PCA optimized results vs the non-optimized results:
+![Screenshot 2025-02-14 at 1 02 27 PM](https://github.com/user-attachments/assets/d8d1bbf0-ba1a-4d7d-88ba-22a589a33f42)
 
+![Screenshot 2025-02-14 at 1 02 51 PM](https://github.com/user-attachments/assets/bd3fb610-2dda-42b5-b4be-dc82a3347f03)
